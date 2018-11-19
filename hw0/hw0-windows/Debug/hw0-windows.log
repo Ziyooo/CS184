@@ -1,0 +1,14 @@
+﻿  mytest3.cpp
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\include\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\geometry3.h(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\geometry3.h(93): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\geometry3.h(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\geometry3.h(91): warning C4101: “err”: 未引用的局部变量
+  shaders.cpp
+c:\users\ziyo\desktop\hw0-windows_vs2012\hw0-windows\shaders.cpp(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  正在生成代码...
+  hw0-windows.vcxproj -> C:\Users\ziyo\Desktop\hw0-windows_VS2012\Debug\hw0-windows.exe

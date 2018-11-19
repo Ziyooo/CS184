@@ -1,0 +1,7 @@
+﻿  Transform.cpp
+c:\users\ziyo\desktop\hw2-windows_vs2012\hw2-windows\glm-0.9.2.7\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ziyo\desktop\hw2-windows_vs2012\hw2-windows\glm-0.9.2.7\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ziyo\desktop\hw2-windows_vs2012\hw2-windows\glm-0.9.2.7\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ziyo\desktop\hw2-windows_vs2012\hw2-windows\transform.h(18): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ziyo\desktop\hw2-windows_vs2012\hw2-windows\transform.cpp(123): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  hw2-windows.vcxproj -> C:\Users\ziyo\Desktop\hw2-windows_VS2012\Debug\hw2-windows.exe
